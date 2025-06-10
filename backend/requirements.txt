@@ -32,3 +32,8 @@ pydantic
 tavily-python>=0.5.4
 pytesseract==0.3.13
 stripe>=7.0.0
+# Computer Vision dependencies for hail damage analysis
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scipy>=1.11.0
